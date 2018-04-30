@@ -81,3 +81,8 @@ heatmap(z, Rowv = NA, Colv = NA)
 ```
 
 ![](grid_stats_files/figure-markdown_github/heat1-1.png)
+
+Housing Chart
+-------------
+
+![Toronto Home Prices](grid_stats_files/Plot.png)
